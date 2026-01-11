@@ -1,6 +1,6 @@
 ## Hi there 👋
 
- Hi, I'm Charissa 👋
+ Hi, I'm Brush Donn👋
 
 ## 👩‍💻 About Me
 I am a detail-oriented AI Trainer and Search Quality Evaluator with experience in data annotation, linguistic analysis, and AI model evaluation. I have a strong academic background in Biological Sciences and hands-on experience supporting machine learning systems through high-quality labeled data and search relevance assessments.
@@ -30,5 +30,5 @@ Arizona State University (ASU)
 - GitHub version control best practices
 
 ## 📫 How to Reach Me
-- GitHub: [github.com/yourusername](https://github.com/BrushDonn)
+- GitHub: [github.com/BrushDonn](https://github.com/BrushDonn)
 
