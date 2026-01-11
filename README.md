@@ -1,16 +1,34 @@
 ## Hi there 👋
 
-<!--
-**BrushDonn/BrushDonn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Hi, I'm Charissa 👋
 
-Here are some ideas to get you started:
+## 👩‍💻 About Me
+I am a detail-oriented AI Trainer and Search Quality Evaluator with experience in data annotation, linguistic analysis, and AI model evaluation. I have a strong academic background in Biological Sciences and hands-on experience supporting machine learning systems through high-quality labeled data and search relevance assessments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Skills & Expertise
+- AI Training & LLM Evaluation
+- Search Quality Rating
+- Data Annotation & Labeling
+- Prompt Evaluation & Response Analysis
+- Web Research & Content Verification
+- Data Analysis (Beginner–Intermediate)
+
+## 🛠 Tools & Technologies
+- GitHub
+- Python (beginner)
+- Google Workspace
+- Excel / Google Sheets
+- Annotation platforms (RWS, Appen-style tools)
+
+## 🎓 Education
+**Bachelor of Science (BS) – Biological Sciences**  
+Arizona State University (ASU)
+
+## 🌱 Currently Learning
+- Python for data analysis
+- AI model evaluation frameworks
+- GitHub version control best practices
+
+## 📫 How to Reach Me
+- GitHub: [github.com/yourusername](https://github.com/BrushDonn)
+
